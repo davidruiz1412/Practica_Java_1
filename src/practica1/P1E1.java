@@ -21,7 +21,7 @@ public class P1E1 {
         int[] lista_numeros=new int[5];
         int i;
         Scanner n = new Scanner(System.in);
-        System.out.println("Introduce 5 números:");
+        System.out.println("Introduce 5 números: ");
         
         for (i=0;i<5;i++){
             lista_numeros[i]=n.nextInt();
